@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Mine/FESiará.md",
+            "file": "Native/editing.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mine/FESiará.md",
+                "file": "Native/editing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mine/FESiará.md",
+                "file": "Native/editing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mine/FESiará.md"
+                "file": "Native/editing.md"
               }
             }
           }
@@ -130,12 +130,15 @@
   },
   "active": "50b98d3497e5f914",
   "lastOpenFiles": [
-    "Native/philosophy.md",
-    "Native/obsidian.md",
+    "Native/custom Domain.md",
     "Native/hosting.md",
-    "Native/ignore notes.md",
     "Native/editing.md",
-    "Mine/FESiará.md",
+    "Native/ignore notes.md",
+    "Native/obsidian.md",
+    "Native/philosophy.md",
+    "Native/preview changes.md",
+    "Native/search.md",
+    "Native/troubleshooting.md",
     "Native/updating.md"
   ]
 }
