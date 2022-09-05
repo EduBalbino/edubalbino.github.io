@@ -6,7 +6,7 @@ title: "Fórmula-E Siará"
 # Carrinho
 ## Sistema de Propulsão
 ### Baterias
-#### OBJETIVOS e desafios
+#### Objetivos e Desafios
 A Bateria precisa ter uma capacidade de carga razoável
 A Bateria precisa ser carregada com [[desgaste]] mínimo
 A Bateria exige um [[Battery Managment System|monitoriamento]] constante
