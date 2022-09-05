@@ -2,7 +2,7 @@
 title: Quartz 3.3
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+Host your seconaaaaaaaaaaaaaaad brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
 1. Extremely fast natural-language [[notes/search|search]]
 2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
