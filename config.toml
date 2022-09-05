@@ -1,4 +1,4 @@
-baseURL = "https://edubalbino.github.io"
+baseURL = "https://edubalbino.github.io/"
 languageCode = "en-us"
 googleAnalytics = "G-XYFD95KB4J"
 relativeURLs = false
