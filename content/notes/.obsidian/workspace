@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Native/editing.md",
+            "file": "Mine/Baterias em Série.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Native/editing.md",
+                "file": "Mine/Baterias em Série.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Native/editing.md",
+                "file": "Mine/Baterias em Série.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Native/editing.md"
+                "file": "Mine/Baterias em Série.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "50b98d3497e5f914",
+  "active": "3e351c5bb063b972",
   "lastOpenFiles": [
-    "Native/custom Domain.md",
+    "Mine/FESiará.md",
+    "Mine/desgaste.md",
+    "Mine/Battery Managment System.md",
     "Native/hosting.md",
     "Native/editing.md",
-    "Native/ignore notes.md",
-    "Native/obsidian.md",
-    "Native/philosophy.md",
-    "Native/preview changes.md",
-    "Native/search.md",
-    "Native/troubleshooting.md",
-    "Native/updating.md"
+    "Native/custom Domain.md",
+    "Native/config.md",
+    "Native/CJK + Latex Support (测试).md",
+    "Native/callouts.md",
+    "Native/ignore notes.md"
   ]
 }
