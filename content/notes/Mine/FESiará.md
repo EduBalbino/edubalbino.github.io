@@ -1,5 +1,5 @@
 ---
-title: "Fórmula-E Siará Main Page"
+title: "Fórmula-E Siará"
 ---
 
 # Então você quer entrar no Fórmula-E Siará?
