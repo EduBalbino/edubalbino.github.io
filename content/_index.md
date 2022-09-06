@@ -10,6 +10,5 @@ Objetivos da tentativa:
 2. Promover um ponta-pé inicial para os membros recém-ingressantes.
 
 ## Participe agora mesmo!
-> 📚 ["Como realizar modificações na Wiki?"](notes/comorealizarmodificações.md)
-> 
+> 📚 ["Como realizar modificações na Wiki?"](notes/comorealizarmodificações.md) <br/>
 > 🌎 [Página Inicial Fórmula-E Siará](/notes/FESiará.md)
