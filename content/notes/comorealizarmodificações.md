@@ -2,9 +2,11 @@
 title: Como Realizar Modificações na Wiki?
 tags:
 - setup
+- date: "2022-09-06"
 ---
 
 >[!INFO] Não é simples
+>
 Mas também não é difícil.
 
 # Setup do GitHub
@@ -16,7 +18,7 @@ Além do acesso ao GitHub pelo navegador, torna-se necessário a instalação do
 Após [baixar o GitHub Desktop](https://desktop.github.com/), é necessário realizar a clonagem do repositório:
 
 >[!NOTE]- Selecionando repositório correto
->![Select Correct Repository](notes/images/github-desktop-setup-tutorial.png)
+>![Selecione o Repositório Correto](notes/images/github-desktop-setup-tutorial.png)
 
 # [Obsidian](http://obsidian.md)
 
@@ -31,13 +33,3 @@ Great, now that you have your Obsidian linked to your Quartz, let's fix some set
 2. Go to Settings > Files & Links > Turn "on" automatically update internal links.
 
 ![Obsidian Settings](/notes/images/obsidian-settings.png)*Obsidian Settings*
-
-## Templates
-Inserting front matter everytime you want to create a new Note gets annoying really quickly. Luckily, Obsidian supports templates which makes inserting new content really easily.
-
-**If you decide to overwrite the `/content` folder completely, don't remove the `/content/templates` folder!**
-
-Head over to Options > Core Plugins and enable the Templates plugin. Then go to Options > Hotkeys and set a hotkey for 'Insert Template' (I recommend `[cmd]+T`). That way, when you create a new note, you can just press the hotkey for a new template and be ready to go!
-
-1. Obsidian é um programa com vários objetivos, seja para anotações, criação de mapas mentais e, no nosso caso, criação de uma base de conhecimento.
-2. Não é estritamente necessário a instalação do programa, mas ajuda **e muito** na edição dos arquivos.
