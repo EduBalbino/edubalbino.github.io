@@ -17,7 +17,7 @@ Além do acesso ao GitHub pelo navegador, torna-se necessário a instalação do
 
 Após [baixar o GitHub Desktop](https://desktop.github.com/), é necessário realizar a clonagem do repositório:
 
->[!NOTE]- Selecionando repositório correto
+>[!NOTE]+ Selecionando repositório correto
 >![Selecione o Repositório Correto](notes/images/github-desktop-setup-tutorial.png)
 
 # [Obsidian](http://obsidian.md)
