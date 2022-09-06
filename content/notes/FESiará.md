@@ -15,6 +15,9 @@ Usamos 4 baterias de [[notes/Baterias de Chumbo-Ácido|chumbo-ácido]] de 12V em
 #### Futuro
 Substituição por baterias de [[Baterias de Íon de Lítio|íon de lítio]]
 ### Inversor de Frequência
+Fulano tal tal e tal caralho
+
+![](/notes/images/balbino.jpg)
 #### OBJETIVOS
 #### desafios
 #### como estamos?
