@@ -1,5 +1,5 @@
 ---
-title: Como Realizar Modificações na Wiki?
+title: Modificar Wiki
 tags:
 - setup
 - date: "2022-09-06"
