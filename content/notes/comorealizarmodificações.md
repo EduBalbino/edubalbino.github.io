@@ -1,8 +1,8 @@
 ---
-title: Modificar Wiki
+title: "Modificar a Wiki"
 tags:
 - setup
-- date: "2022-09-06"
+date: "2022-09-06"
 ---
 
 >[!INFO] Não é simples
