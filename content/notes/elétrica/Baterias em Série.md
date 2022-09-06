@@ -1,7 +1,7 @@
 ---
 title: "Baterias em Série"
 tags:
-- setup
+- elétrica
 weight: -5
 date: "2022-09-06"
 ---
