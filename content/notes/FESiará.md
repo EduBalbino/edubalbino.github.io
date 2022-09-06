@@ -14,7 +14,7 @@ A Bateria exige um [[Battery Managment System|monitoriamento]] constante
 Usamos 4 baterias de [[notes/Baterias de Chumbo-Ácido|chumbo-ácido]] de 12V em [[Baterias em Série|série|]], com capacidade individual de 115Ah
 #### Futuro
 Substituição por baterias de [[Baterias de Íon de Lítio|íon de lítio]]
-### [Inversor de Frequência](/notes/Inversor de Frequência.md)
+### [[Inversor de Frequência]]
 Fulano tal tal e tal caralho
 #### OBJETIVOS
 #### desafios
